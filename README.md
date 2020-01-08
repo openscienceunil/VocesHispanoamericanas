@@ -5,7 +5,7 @@
 # Instructions
 <br>
 Pour écouter un poème, veuillez clicker sur un livre et ensuite vous allez avoir l'audio respectif.
-Important: il faut n'atteindre que l'audio finis avant d'appuyer sur un autre livre. Autrement, vous allez avoir une polyphonie. Si vous voulez pas finir l'audio et passer au suivant, il faudra juste actualiser la page et clicker sur un autre livre. 
+Important: il faut atteindre jusqu'à ce que l'audio fini avant d'appuyer sur un autre livre. Autrement, vous allez avoir une polyphonie. Si vous voulez pas finir l'audio et passer au suivant, il faudra juste actualiser la page et clicker sur un autre livre. 
 
 # Sources
 <br>
