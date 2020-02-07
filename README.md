@@ -10,7 +10,7 @@
 <br>
 Pour pouvoir accéder au projet, il faudra suivre les pas suivants en Windows / Mac Os; 
 <br>
-1. Télécharger en format Zip et extraire dans un dossier 
+1. Télécharger en format zip et extraire dans un dossier 
 <br>
 2. Ouvrir le fichier index.html avec votre serveur d'internet
 
